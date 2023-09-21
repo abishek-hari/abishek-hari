@@ -1,5 +1,4 @@
 
-![MasterHead](https://miro.medium.com/max/1100/1*TUnvfE3_efpHn3FsXiZuxQ.webp)
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" />

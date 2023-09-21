@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek-hari&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-hari" /> </p>
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **React, Redux ToolKit, Tailwind**
 
 - 📫 How to reach me **abishekhari09@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
